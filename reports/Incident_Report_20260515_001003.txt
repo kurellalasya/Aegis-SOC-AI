@@ -1,0 +1,1 @@
+Model Error: gemini-1.5-flash not found. Ensure your API Key is from Google AI Studio and your library is updated.
